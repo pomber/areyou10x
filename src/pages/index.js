@@ -83,7 +83,7 @@ export default () => (
           You are a <strong>{result}x</strong> programmer!{" "}
           <a
             href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-              `I am a ${result}x programmer. How about you? https://areyou10x.netlify.com`
+              `I am a ${result}x programmer. How about you? https://areyou10x.netlify.com #10xEngineer`
             )}`}
           >
             Tweet your score

@@ -92,7 +92,7 @@ export default () => (
         <p>
           Real 10x programmers{" "}
           <a href="https://github.com/pomber/areyou10x">send PRs</a> during
-          boring meetings.
+          meetings.
         </p>
       </div>
     )}
